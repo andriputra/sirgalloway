@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2016-12-07 19:30:49
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.24
+WORDPRESS:	4.6.1
+PHP INFO:	5.5.31 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 50.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:50 | filtered:0 | create:50 
+FILTERED: [] 
+SQL CREATED: 20161207_sirgalloway_584863559bb075437161207193029_database.sql 
+SQL FILE SIZE: 2.47MB (2586361) 
+SQL FILE TIME: 2016-12-07 19:30:50 
+SQL RUNTIME: 0.84 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/vijakuco/public_html/projectme/sirgalloway 
+ARCHIVE FILE: 20161207_sirgalloway_584863559bb075437161207193029_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	96.06MB 
+STATS:	Dirs 847 | Files 5,947 
+SQL ADDED: 20161207_sirgalloway_584863559bb075437161207193029_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6794
+    [filename] => /home/vijakuco/public_html/projectme/sirgalloway/wp-snapshots/tmp/20161207_sirgalloway_584863559bb075437161207193029_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 36.23MB 
+ARCHIVE RUNTIME: 47.81 sec. 
+MEMORY STACK: 53.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home/vijakuco/public_html/projectme/sirgalloway/wp-snapshots/tmp/20161207_sirgalloway_584863559bb075437161207193029_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.47MB 
+Installer File: 352.04KB 
+Archive File: 36.23MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 63.03 sec.
+PEAK PHP MEMORY USED: 55.25MB
+DONE PROCESSING => 20161207_sirgalloway 2016-12-07 19:31:52
+ 

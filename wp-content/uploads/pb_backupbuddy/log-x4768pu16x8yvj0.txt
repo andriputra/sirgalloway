@@ -1,0 +1,1 @@
+[Dec 7, 2016 19:29:02 0-error] [ch1isdq7a7] Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.
